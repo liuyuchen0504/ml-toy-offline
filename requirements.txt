@@ -1,0 +1,6 @@
+# This is an implicit value, here for clarity
+-i https://mirrors.aliyun.com/pypi/simple
+
+jpype1~=1.4.1
+pyspark~=2.3.4
+setuptools~=65.6.3
